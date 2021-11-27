@@ -1,5 +1,4 @@
 %METHOD OF FALSE POSITION
-%Author : Preyank Mota - 2019B4A70331G
 %Method of false position is a numerical method to find an approximate root
 %of a given function.
 
