@@ -1,5 +1,4 @@
 %MODIFIED NEWTON'S METHOD
-%Author : Preyank Mota - 2019B4A70331G
 %Modified Newton's method is a numerical method to find an approximate root
 %of the given function. It is an extension of the Newton's method.
 
