@@ -1,5 +1,4 @@
 %FIXED POINT ITERATION
-%Author : Preyank Mota - 2019B4A70331G
 %Fixed point iteration is a numerical method to find find fixed point of a
 %function and rearraging it to find the root of the resulting new function.
 
