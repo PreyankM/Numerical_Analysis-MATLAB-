@@ -1,5 +1,4 @@
 %BISECTION METHOD
-%Author : Preyank Mota - 2019B4A70331G
 %Bisection method is a numerical method to find roots of a function. 
 
 format long g; % Setting up format for output screen.
