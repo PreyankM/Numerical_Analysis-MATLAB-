@@ -1,5 +1,4 @@
 %SECANT METHOD
-%Author : Preyank Mota - 2019B4A70331G
 %Secant method is a numerical method to find approximate root of a
 %function.
 
